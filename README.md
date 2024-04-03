@@ -11,10 +11,11 @@
    - Italian
    - Melody is our divine inheritence
       - We are called on to reharm it
-      - But [The Social Network's](https://en.wikipedia.org/wiki/The_Social_Network) director & screenwriters don't savor each scene
-      - Our director believes the story is his to tell
+      - But [The Social Network's](https://en.wikipedia.org/wiki/The_Social_Network) director & screenwriters don't savor each scene 
+      - Our director believes the story, or song, is his to tell
       - And rushes us through scenes, because he can't wait to unveil it
-      - Premature mastication!
+      - Premature mastication of cadences
+      - Yet our lots task is reharm: painting the tone colors within which we'll savor the melody
 2. Pentatonic
    - Aperitivo
    - Antipasto
