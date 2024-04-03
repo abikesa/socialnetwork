@@ -16,6 +16,12 @@
       - And rushes us through scenes, because he can't wait to unveil it
       - Premature mastication of cadences
       - Yet our lots task is reharm: painting the tone colors within which we'll savor the melody
+      - However, this story & melody belongs to the pantheon
+         - It has a non-linear structure
+         - Anchored in the law-suits
+         - With five notes on a pentatonic scale, a universal, can you file a law suit against someone with similar melody?
+         - Forrrus, we view this as divine inheritence
+         - Lets anchor The Social Network on this premise 
 2. Pentatonic
    - Aperitivo
    - Antipasto
@@ -44,5 +50,8 @@
    - Physical
    - Communal
       - Social Network's director & screenwriters don't savor each scene 
-   - Transendental
-
+   - Transendental: Pantheon (they've all enriched our collective neural networks)
+      - Gates, Allen
+      - Jobs, Woz
+      - Page, Brin
+      - Zuckerberg, Etc
