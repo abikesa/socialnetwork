@@ -30,12 +30,12 @@ hi![](https://glenysromeandbeyond.files.wordpress.com/2015/03/italian-courses2.j
    - Contorno
 ### Art/Chord
 3. Diatonic: Dolce (Autoencode)
-4. Chromatic: Frutta
-   1. **Dragon Fruit (Pitaya)**     
+4. Chromatic: Frutta (Representative)
+   1. **Pitaya**     
    2. **Tamarillo**  
    3. **Mango** 
    4. **Pomegranate**   
-   5. **Star Fruit (Carambola)**  
+   5. **Star Fruit Carambola**  
    6. **Blackberries**  
    7. **Kiwi**  
    8. **Cherry**  
@@ -45,8 +45,8 @@ hi![](https://glenysromeandbeyond.files.wordpress.com/2015/03/italian-courses2.j
    12. **Lychee** 
  
 ### Man/Rhythm
-5. Temperament: Caffé
-6. Expression: Digestivo
+5. Temperament: Caffé (Fine-tune)
+6. Expression: Digestivo (Adversarial Networks)
    - Physical
    - Communal
       - Social Network's director & screenwriters don't savor each scene 
