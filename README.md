@@ -16,12 +16,12 @@
       - And rushes us through scenes, because he can't wait to unveil it
       - Premature mastication of cadences
       - Yet our lots task is reharm: painting the tone colors within which we'll savor the melody
-      - However, this story & melody belongs to the pantheon
-         - It has a non-linear structure
-         - Anchored in the law-suits
-         - With five notes on a pentatonic scale, a universal, can you file a law suit against someone with similar melody?
-         - Forrrus, we view this as divine inheritence
-         - Lets anchor The Social Network on this premise 
+      - However, this story & melody belongs to the pantheon of neural networks
+         - It has a non-linear structure (appropriately  so for neural nerworks)
+         - Anchored in the law-suits (false ownership bred by capitalism)
+         - With five notes on a pentatonic scale, a universal, can you file a law suit against someone with similar melody? Nodes, edges?
+         - Forrrus, we view this as divine inheritence (neural networks)
+         - Lets anchor The Social Network on this premise. Amen! 
 2. Pentatonic
    - Aperitivo
    - Antipasto
