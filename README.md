@@ -1,4 +1,4 @@
-![](https://glenysromeandbeyond.files.wordpress.com/2015/03/italian-courses2.jpg)
+hi![](https://glenysromeandbeyond.files.wordpress.com/2015/03/italian-courses2.jpg)
                                      
                                      1. Root
                                             \
@@ -7,7 +7,7 @@
                                              3. Diatonic
 
 ### God/Melody
-1. Root
+1. Root (Neural Network)
    - Italian
    - Melody is our divine inheritence
       - We are called on to reharm it
@@ -22,14 +22,14 @@
          - With five notes on a pentatonic scale, a universal, can you file a law suit against someone with similar melody? Nodes, edges?
          - Forrrus, we view this as divine inheritence (neural networks)
          - Lets anchor The Social Network on this premise. Amen! 
-2. Pentatonic
+2. Pentatonic (Layers of Network)
    - Aperitivo
    - Antipasto
    - Primo
    - Secondo
    - Contorno
 ### Art/Chord
-3. Diatonic: Dolce
+3. Diatonic: Dolce (Autoencode)
 4. Chromatic: Frutta
    1. **Dragon Fruit (Pitaya)**     
    2. **Tamarillo**  
