@@ -7,8 +7,10 @@
 
 ### Dionysus 1, 2, 3 
 - Inputs, Processing, Speed
+  
 ### Sing O Muse 4
 - Bot
+  
 ### Apollo 5, 6
 - Patterns
 
